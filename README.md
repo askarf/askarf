@@ -26,7 +26,7 @@ Excited to code and connect with you on this thrilling journey! 🚀🌟
 
 ##  
 
-- 🔭 I’m currently working on [Capstone-Frontend](https://github.com/askarf/capstone-frontend.git))
+- 🔭 I’m currently working on [Capstone-Frontend](https://github.com/askarf/capstone-frontend.git)
   
 
 - 🌱 I’m currently honing skills in JavaScript, Python, Ruby on Rails, & React.js  
